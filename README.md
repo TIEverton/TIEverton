@@ -1,4 +1,4 @@
-##### Hi there, my name is Everton 🚀
+#### Hi there, my name is Everton 🚀
 
 #### 👋 Introduction
 [![Commits Badge](https://badges.pufler.dev/commits/weekly/TIEverton)](https://github.com/tieverton) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/tieverton)
@@ -13,7 +13,6 @@
 <img align="left" height="28" width="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/git.svg" />
 <img align="left" height="28" width="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg" />
 <img align="left" height="28" width="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/vercel.svg" />
-<img align="left" height="28" width="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/heroku.svg" />
 <img align="left" height="28" width="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/heroku.svg" />
 
 <img align="left" height="28" width="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/visualstudio.svg" />

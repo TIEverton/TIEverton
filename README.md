@@ -25,7 +25,6 @@
 <img src="https://img.shields.io/badge/react%20-%23323330.svg?&style=for-the-badge&logo=react&logoColor=%61dafb"/>
 <img src="https://img.shields.io/badge/next%20-%23323330.svg?&style=for-the-badge&logo=next-js&logoColor=%23F7DF1E"/>
   </p>
-<br />
 
 #### 💻 Open Source Work Stats
 

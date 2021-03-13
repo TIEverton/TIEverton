@@ -23,6 +23,7 @@
 <img align="left" height="28" width="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" />
 <img align="left" height="28" width="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/typescript.svg" />
 <img align="left" height="28" width="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/react.svg" />
+<img align="left" height="28" width="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/netlify.svg" />
 
 <br />
 

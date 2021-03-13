@@ -1,11 +1,12 @@
 #### Hi there, my name is Everton 🚀
 
 #### 👋 Introduction
+
+##### I am a front-end developer, Computer Technician, technology lover and passionate about code. I currently work at Agility Gestão de Frotas.
+
 [![Visits Badge](https://badges.pufler.dev/visits/tieverton/tieverton?style=for-the-badge)](https://github.com/tieverton/tieverton)
 ![Repos Badge](https://badges.pufler.dev/repos/tieverton?style=for-the-badge)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/tieverton?style=for-the-badge)](https://github.com/tieverton/tieverton)
-
-##### I am a front-end developer, Computer Technician, technology lover and passionate about code. I currently work at Agility Gestão de Frotas.
 
 #### 🚀 Languages and tools:
 <p>

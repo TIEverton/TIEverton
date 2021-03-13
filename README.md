@@ -1,7 +1,10 @@
 #### Hi there, my name is Everton 🚀
 
 #### 👋 Introduction
-[![Commits Badge](https://badges.pufler.dev/commits/weekly/TIEverton)](https://github.com/tieverton) ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) ![](https://visitor-badge.glitch.me/badge?page_id=github.com/tieverton)
+[![Visits Badge](https://badges.pufler.dev/visits/tieverton/tieverton?style=for-the-badge)](https://github.com/tieverton/tieverton)
+![Repos Badge](https://badges.pufler.dev/repos/tieverton?style=for-the-badge)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/tieverton?style=for-the-badge)](https://github.com/tieverton/tieverton)
+
 ##### I am a front-end developer, Computer Technician, technology lover and passionate about code. I currently work at Agility Gestão de Frotas.
 
 #### 🚀 Languages and tools:

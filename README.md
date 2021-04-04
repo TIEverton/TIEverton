@@ -28,7 +28,7 @@
 
 #### 💻 Open Source Work Stats
 
-![Everton Github stats](https://github-readme-stats.vercel.app/api?username=tieverton&hide=contribs,prs,issues&show_icons=true&theme=dark)
+![Everton Github stats](https://github-readme-stats.vercel.app/api?username=tieverton&hide=prs,issues&show_icons=true&theme=dark)
 
 #### 🌠 Social networks
 

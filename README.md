@@ -6,7 +6,6 @@
 
 [![Visits Badge](https://badges.pufler.dev/visits/tieverton/tieverton?style=for-the-badge)](https://github.com/tieverton/tieverton)
 ![Repos Badge](https://badges.pufler.dev/repos/tieverton?style=for-the-badge)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/tieverton?style=for-the-badge)](https://github.com/tieverton/tieverton)
 
 #### 🚀 Languages and tools:
 <p>

@@ -4,7 +4,6 @@
 
 ##### I am a front-end developer, Computer Technician, technology lover and passionate about code. I currently work at nata.house.
 
-[![Visits Badge](https://badges.pufler.dev/visits/tieverton/tieverton?style=for-the-badge)](https://github.com/tieverton/tieverton)
 ![Repos Badge](https://badges.pufler.dev/repos/tieverton?style=for-the-badge)
 
 #### 🚀 Languages and tools

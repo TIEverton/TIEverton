@@ -4,8 +4,6 @@
 
 ##### I am a front-end developer, Computer Technician, technology lover and passionate about code. I currently work at nata.house.
 
-![Repos Badge](https://badges.pufler.dev/repos/tieverton?style=for-the-badge)
-
 #### 🚀 Languages and tools
 <p>
    <img src="https://img.shields.io/badge/git%20-ef391a.svg?&style=for-the-badge&logo=git&logoColor=white"/>

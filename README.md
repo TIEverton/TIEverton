@@ -2,7 +2,7 @@
 
 #### 👋 Introduction
 
-##### I am a front-end developer, Computer Technician, technology lover and passionate about code. I currently work at nata.house.
+##### I am a Software Developer, Computer Technician, technology lover and passionate about code. I currently work at nata.house.
 
 #### 🚀 Languages and tools
 <p>

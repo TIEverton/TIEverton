@@ -31,10 +31,6 @@
   <img src="https://img.shields.io/badge/docker%20-003f8c.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
-#### 💻 Open Source Work Stats
-
-![Everton Github stats](https://github-readme-stats.vercel.app/api?username=tieverton&hide=prs,issues&show_icons=true&theme=dark)
-
 #### 🌠 Social networks
 
 <a href="https://www.linkedin.com/in/evertonpinheiroti/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
